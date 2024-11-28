@@ -1,21 +1,78 @@
-# 💫 About Me:
-# Hello, I'm Joshua Kofi Takyi 👋<br><br>## 🚀 Aspiring Web & Software Developer<br><br>🔭 I'm currently working on building full-stack projects with React, Node.js, and Golang.<br>👯 I'm looking to collaborate on open-source initiatives.  <br>🤝 I'm looking for help with mastering system design principles.<br>🌱 I'm currently learning React/Next.js and deepening my Golang skills.<br>💬 Ask me about clean code, user-friendly apps, or my passion for problem-solving.<br>⚡ Fun fact: I enjoy reading about Warhammer 40K in my free time.<br><br>📫 Let's connect: takyijoshua191@gmail.com
+# <span style="font-size: 24px;">💫 About Me:</span>
+<span style="font-size: 14px;">Hello, I'm Joshua Kofi Takyi 👋</span>
 
+## <span style="font-size: 20px;">🚀 Aspiring Web & Software Developer</span>
+<span style="font-size: 12px;">🌱 Currently learning and building with:</span>
+- <span style="font-size: 12px;">HTML, CSS & JavaScript</span>
+- <span style="font-size: 12px;">React.js</span>
+- <span style="font-size: 12px;">Node.js</span>
+- <span style="font-size: 12px;">Golang</span>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Joshua-takyi&theme=jolly&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Joshua-takyi&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-takyi&theme=jolly&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<span style="font-size: 12px;">💡 I'm passionate about:</span>
+- <span style="font-size: 12px;">Creating clean, efficient code</span>
+- <span style="font-size: 12px;">Building user-friendly applications</span>
+- <span style="font-size: 12px;">Learning new technologies</span>
+- <span style="font-size: 12px;">Solving real-world problems through code</span>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<span style="font-size: 12px;">🎯 2024 Goals:</span>
+- <span style="font-size: 12px;">Build 2 full-stack projects</span>
+- <span style="font-size: 12px;">Contribute to open-source</span>
+- <span style="font-size: 12px;">Master React.js/Nextjs</span>
+- <span style="font-size: 12px;">Be good in Golang</span>
+- <span style="font-size: 12px;">Learn system design principles</span>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Joshua-takyi&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+<span style="font-size: 12px;">⚡ When I'm not coding:</span>
+- <span style="font-size: 12px;">Reading tech blogs</span>
+- <span style="font-size: 12px;">Exploring new dev tools</span>
+- <span style="font-size: 12px;">Reading something about Warhammer 40K</span>
+
+## <span style="font-size: 20px;">📫 Let's Connect:</span>
+<span style="font-size: 12px;">****| takyijoshua191@gmail.com | *****</span>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Joshua-takyi&icon=8&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# <span style="font-size: 24px;">💻 Tech Stack:</span>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## <span style="font-size: 20px;">📊 GitHub Stats:</span>
+![](https://github-readme-stats.vercel.app/api?username=Joshua-takyi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Joshua-takyi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-takyi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## <span style="font-size: 20px;">🏆 GitHub Trophies:</span>
+![](https://github-profile-trophy.vercel.app/?username=Joshua-takyi&theme=default&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+## <span style="font-size: 20px;">✍️ Random Dev Quote:</span>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## <span style="font-size: 20px;">🔝 Top Contributed Repo:</span>
+![](https://github-contributor-stats.vercel.app/api?username=Joshua-takyi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=Joshua-takyi&icon=0&color=0)](https://visitcount.itsvg.in)
