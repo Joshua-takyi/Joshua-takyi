@@ -5,8 +5,9 @@
 <span style="font-size: 12px;">🌱 Currently learning and building with:</span>
 - <span style="font-size: 12px;">HTML, CSS & JavaScript</span>
 - <span style="font-size: 12px;">React.js</span>
-- <span style="font-size: 12px;">Node.js</span>
+- <span style="font-size: 12px;">Nextjs</span>
 - <span style="font-size: 12px;">Golang</span>
+- <span style="font-size: 12px;">Node.js</span>
 
 <span style="font-size: 12px;">💡 I'm passionate about:</span>
 - <span style="font-size: 12px;">Creating clean, efficient code</span>
