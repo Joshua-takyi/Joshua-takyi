@@ -28,7 +28,7 @@
 - <span style="font-size: 12px;">Reading something about Warhammer 40K</span>
 
 ## <span style="font-size: 20px;">📫 Let's Connect:</span>
-<span style="font-size: 12px;">****| takyijoshua191@gmail.com | *****</span>
+<span style="font-size: 12px;">****| takyijoshua019@gmail.com | *****</span>
 
 ---
 
